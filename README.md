@@ -1,14 +1,17 @@
-# Next.js Pure Starter
+# ✨ Next.js Pure Starter
 
-A minimal Next.js 15 starter with Tailwind CSS.
+Minimal Next.js setup. No bloat, just the essentials.
 
-- ⚡ **Next.js 15** - React framework with App Router
-- 🎨 **Tailwind CSS v4** - Utility-first CSS
-- 📝 **TypeScript** - Type safety
+## Stack
+- Next.js 15 (App Router)
+- Tailwind CSS v4
+- TypeScript
+- Lucide Icons
 
-## Getting Started
-
+## Quick Start
 ```bash
 pnpm install
 pnpm dev
 ```
+
+Simple as that! 🎯
